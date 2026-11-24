@@ -1,0 +1,11 @@
+{
+  "name": "funniest-ai-excuse",
+  "version": "1.0.0",
+  "description": "An AI agent's funniest one-line excuse for a failed task. Entry for make.fun's The Funniest AI Excuse bounty.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts",
+    "test": "node --test main.test.ts"
+  }
+}
